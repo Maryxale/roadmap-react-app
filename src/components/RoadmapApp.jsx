@@ -62,7 +62,7 @@ export default function RoadmapApp() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-violet-900 via-indigo-900 to-sky-900 text-white p-6">
       <header className="mb-8">
-        <h1 className="text-3xl font-bold">Roadmap React App</h1>
+        <h1 className="text-3xl font-bold">Roadmap App</h1>
         <p className="text-indigo-200 mt-1">
           Challenge Frontend · JSON + Tabla + Filtros
         </p>
